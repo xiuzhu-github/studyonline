@@ -4,17 +4,28 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>studyonline</artifactId>
+<<<<<<< HEAD
         <groupId>com.studyonline</groupId>
+=======
+        <groupId>com.example</groupId>
+>>>>>>> ef6fb7df5087e01fba61e8172b6d3b0c3c7d4112
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>eureka</artifactId>
     <dependencies>
+<<<<<<< HEAD
     <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
     </dependency>
+=======
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
+        </dependency>
+>>>>>>> ef6fb7df5087e01fba61e8172b6d3b0c3c7d4112
     </dependencies>
 
 </project>
